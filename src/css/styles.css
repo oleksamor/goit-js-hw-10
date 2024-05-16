@@ -25,12 +25,26 @@
   -webkit-text-size-adjust: 100%;
 }
 
+.input {
+  width: 272px;
+    height: 40px;
+    gap: 8px;
+    opacity: 0px;
+}
+
+.button {
+width: 75px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 10px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
 .timer {
   display: flex;
   justify-content: start;
-  
- 
-}
+  }
 
 .field{
   display: flex;
